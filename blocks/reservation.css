@@ -20,23 +20,24 @@
   width: 300px;
   padding-bottom: 120px;
 }
-.form__group {
+.form__fieldset {
   display: flex;
   flex-direction: column;
   margin-bottom: 32px;
+  width: 100%;
 }
-.form__group label {
+.form__fieldset label {
   margin-bottom: 8px;
   font-family: "Inter", sans-serif;
   font-weight: 500;
 }
-.form__group ::placeholder {
+.form__fieldset ::placeholder {
   font-family: "Inter", sans-serif;
   font-size: 20px;
   line-height: 30px;
   color: #838383;
 }
-.form__group input {
+.form__fieldset input {
   box-sizing: border-box;
   height: 60px;
   padding: 10px;
