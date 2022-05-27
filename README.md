@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+A form to register orders for pick-ups and for take-outs for customers who are in a hurry. The form should register orders just by clicking on the items shown in the menu.
