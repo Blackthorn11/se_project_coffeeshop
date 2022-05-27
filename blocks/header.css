@@ -50,6 +50,7 @@
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
+  z-index: 1;
 }
 .span-accent {
   font-family: "Noto Serif", serif;
@@ -58,6 +59,7 @@
   font-weight: normal;
   line-height: 72px;
   color: #2f80ed;
+  display: block;
 }
 .header__description {
   max-width: 683px;
