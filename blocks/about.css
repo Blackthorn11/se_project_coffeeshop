@@ -1,5 +1,5 @@
 .about {
-  background-color: rgb(3, 3, 87);
+  background: linear-gradient(180deg, #071931 0%, #0a2850 100%);
   color: white;
   display: flex;
   box-sizing: border-box;
@@ -10,7 +10,7 @@
   max-width: 251px;
   padding-top: 100px;
   padding-left: 80px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -26,15 +26,13 @@
 }
 .about__paragraph {
   margin-bottom: 20px;
-  font-family: "Noto Serif", serif;
+  font-family: "Noto Serif", "Times New Roman" serif;
   font-size: 20px;
   line-height: 30px;
+  margin-top: 0;
 }
 .about__paragraph:last-of-type {
   margin-bottom: 0;
-}
-.about__paragraph:first-of-type {
-  margin-top: 0;
 }
 .about__circle {
   background-color: #2f80ed;
