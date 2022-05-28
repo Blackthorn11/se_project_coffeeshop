@@ -48,6 +48,7 @@
   transition-property: opacity;
   transition-duration: 1s;
   transition-timing-function: linear;
+  border: none;
 }
 .form__button:hover {
   opacity: 70%;
